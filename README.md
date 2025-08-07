@@ -1,2 +1,1 @@
-# Colt-Express-Game
 # Labyrinth-
